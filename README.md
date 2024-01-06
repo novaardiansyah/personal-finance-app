@@ -19,7 +19,7 @@ Explore the sleek interface, enjoy the intuitive user experience, and take contr
 - 💸 Record Income and Expenses
 - 📊 Budget Preparation
 - 🔄 Customizable Categories
-- And Many More..
+- and Many More...
 
 ## Powering Up with an Electrifying Tech Stack! ⚡
 
@@ -32,11 +32,11 @@ Prepare for an exhilarating ride through innovation and efficiency with this imp
 
 ## Licensing Groove🕺
 
-Exciting news! This project is grooving to the rhythm of the [MIT License](https://github.com/novaardiansyah/genius-ai-generator/blob/main/LICENSE)! 🎉
+Exciting news! This project is grooving to the rhythm of the [MIT License](https://github.com/novaardiansyah/personal-finance-app/blob/main/LICENSE)! 🎉
 
 ## Let's Connect! 📞
 
-Need to chat? Feel free to drop me a line via [Email](mailto:novaardiansyah78@gmail.com) or hit me up on [WhatsApp](https://wa.me/6289506668480?text=Hi%20Nova,%20I%20have%20a%20question%20about%20your%20project%20on%20GitHub:%20https://github.com/novaardiansyah/genius-ai-generator). I'm just a message away, ready to groove with you! 📩
+Need to chat? Feel free to drop me a line via [Email](mailto:novaardiansyah78@gmail.com) or hit me up on [WhatsApp](https://wa.me/6289506668480?text=Hi%20Nova,%20I%20have%20a%20question%20about%20your%20project%20on%20GitHub:%20https://github.com/novaardiansyah/personal-finance-app). I'm just a message away, ready to groove with you! 📩
 
 ## Sneak Peek (Dev) 🌟
 
