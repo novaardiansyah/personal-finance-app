@@ -48,7 +48,7 @@ Get a glimpse of the app's enchanting world by exploring the current progress at
 ## Project Status 🚀 
 
 ![stages](https://img.shields.io/badge/stages-development-informational)
-[![information](https://img.shields.io/badge/information-references-informational)](https://github.com/novaardiansyah/Expo-Started/blob/main/references.json)
-![size](https://img.shields.io/github/repo-size/novaardiansyah/Expo-Started?label=size&color=informational)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/novaardiansyah/Expo-Started/blob/main/LICENSE)
-[![last commit](https://img.shields.io/github/last-commit/novaardiansyah/Expo-Started?label=last%20commit&color=informational)](https://github.com/novaardiansyah/Expo-Started/commits/main)
+[![information](https://img.shields.io/badge/information-references-informational)](https://github.com/novaardiansyah/personal-finance-app/blob/main/references.json)
+![size](https://img.shields.io/github/repo-size/novaardiansyah/personal-finance-app?label=size&color=informational)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/novaardiansyah/personal-finance-app/blob/main/LICENSE)
+[![last commit](https://img.shields.io/github/last-commit/novaardiansyah/personal-finance-app?label=last%20commit&color=informational)](https://github.com/novaardiansyah/personal-finance-app/commits/main)
