@@ -15,10 +15,11 @@ Explore the sleek interface, enjoy the intuitive user experience, and take contr
 - 📱 Full responsiveness
 - ⏳ Page loading state
 - 🔄 How to reuse layouts
-- 📁 Folder structur
+- 📁 Folder structure
 - 💸 Record Income and Expenses
 - 📊 Budget Preparation
 - 🔄 Customizable Categories
+- And Many More..
 
 ## Powering Up with an Electrifying Tech Stack! ⚡
 
